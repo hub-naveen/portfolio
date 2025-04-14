@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22627
-Fork on GitHub
-7462
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Naveen Building the Future with Code & Data</h1>
 <h3 align="center">AI Explorer • Data Science Enthusiast • Future Tech Leader</h3>
 
